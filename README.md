@@ -1,1 +1,1 @@
-"# Servicios de la aplicaci¢n Huizache desarrollados en php" 
+"# Servicios de la aplicaci√≥n Huizache desarrollados en PHP" 
